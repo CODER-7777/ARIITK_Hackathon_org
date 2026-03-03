@@ -40,7 +40,7 @@ This level is divided into two escalating challenges:
 
 Your Python script communicates with the simulator via **network sockets** and **HTTP requests**. The simulator binaries are too large for GitHub — download them from the link below.
 
-> **📥 Download Simulator:** [Google Drive — Bonus Level Simulator](https://drive.google.com/drive/folders/1j8hUUgTsx_cl2vQLKtHT_-zmelxxZHoK?usp=sharing)
+> **Download Simulator:** [Google Drive — Bonus Level Simulator](https://drive.google.com/drive/folders/1j8hUUgTsx_cl2vQLKtHT_-zmelxxZHoK?usp=sharing)
 >
 > | File | Platform |
 > |------|----------|
